@@ -1,0 +1,3 @@
+[submodule "lib/lexed.js"]
+	path = lib/lexed.js
+	url = git@github.com:tantaman/lexed.js.git
